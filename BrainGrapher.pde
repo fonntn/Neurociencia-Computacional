@@ -1,10 +1,8 @@
 // Main controller / model file for the the Processing Brain Grapher.
 
 // See README.markdown for more info.
-// See http://frontiernerds.com/brain-hack for a tutorial on getting started with the Arduino Brain Library and this Processing Brain Grapher.
 
 // Latest source code is on https://github.com/kitschpatrol/Processing-Brain-Grapher
-// Created by Eric Mika in Fall 2010, updates Spring 2012, early 2014, and Spring 2016.
 
 import processing.serial.*;
 import controlP5.*;
